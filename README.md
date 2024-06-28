@@ -1,20 +1,5 @@
-# Alaram Clock
-
-- Alarm Notification.
-- Date Time Picker
-- Shared Preferences.
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kelompok 15
+1. Muhammad Thoriq Alfarisi 2211102441118 
+2. Muhammad Albi Annur 2211102441092
+3. Yoga Putra Whidiardy 2211102441176
+4. Reza Lukia Zikri 2211102441063
