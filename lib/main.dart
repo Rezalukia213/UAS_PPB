@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
           )
         ],
         title: const Text(
-          'Alarm Clock ',
+          'Alarm Sehat ', 
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
